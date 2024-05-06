@@ -4,7 +4,7 @@
 
 This dynamic web application is designed to assist YouTubers in choosing the ideal background color or image for their video setups. By providing a range of colorful backgrounds and fun themes, like a 'space cat' image, users can instantly visualize how different backgrounds might look in their videos.
 
-**Link to project:** TBD
+**Link to project:** https://yt-background-picker.netlify.app/
 
 ## How It's Made:
 
